@@ -60,5 +60,5 @@ https://leetcode.com/discuss/general-discussion/1127238/
 ⭐ Extra Collections (Optional)
 
 https://github.com/ashishps1/awesome-leetcode-resources
-
+string questions - https://leetcode.com/discuss/post/2001789/collections-of-important-string-question-pc6y/
 https://leetcode.com/discuss/post/665604/
