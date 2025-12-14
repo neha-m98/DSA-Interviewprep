@@ -49,4 +49,6 @@ https://github.com/ashishps1/awesome-leetcode-resources
 string questions - https://leetcode.com/discuss/post/2001789/collections-of-important-string-question-pc6y/
 https://leetcode.com/discuss/post/665604/
 
-previously asked: https://leetcode.bnoje.com/
+previously asked company wise: 
+1)https://leetcode.bnoje.com/
+2)https://github.com/liquidslr/leetcode-company-wise-problems
