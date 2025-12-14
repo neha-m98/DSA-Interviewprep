@@ -1,33 +1,157 @@
+📚 DSA MASTER ROADMAP (PATTERN-ONLY)
+1️⃣ Core Linear & Stack Patterns
+🔹 Monotonic Stack
 
-Monotonic STACK TEMPLATE- https://leetcode.com/discuss/post/2347639/a-comprehensive-guide-and-template-for-m-irii/
+Use when: next greater/smaller, ranges, contribution technique
+📌 Resource:
 
-Prefix Sum Template- https://leetcode.com/discuss/post/5119937/prefix-sum-problems-by-c0d3m-08l9/
+https://leetcode.com/discuss/post/2347639/a-comprehensive-guide-and-template-for-m-irii/
 
-Line Sweep Algorithms- https://leetcode.com/discuss/post/2166045/line-sweep-algorithms-by-c0d3m-8ebq/
+🔹 Prefix Sum
 
-Dynamic_programming- https://www.reddit.com/r/leetcode/comments/14o10jd/the_ultimate_dynamic_programming_roadmap/
+Use when: range queries, subarrays, frequency counting
+📌 Resource:
 
-yt link for DP: https://www.youtube.com/watch?v=9k31KcQmS_U
+https://leetcode.com/discuss/post/5119937/prefix-sum-problems-by-c0d3m-08l9/
 
-Tree Patterns:  https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
+Core ideas:
 
-Graph Patterns:  https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions 
+Prefix + HashMap
 
-youtube link for graphs: https://www.youtube.com/watch?v=59fUtYYz7ZU
+2D Prefix Sum
 
-Substring Problem Patterns: https://lnkd.in/gt23kRen
+Difference Array
 
-Backtracking Problem Pattern: https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/
+🔹 Line Sweep
 
-Two Pointers Patterns: https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days
+Use when: interval overlaps, event counting
+📌 Resource:
 
-Binary Search Patterns: https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
+https://leetcode.com/discuss/post/2166045/line-sweep-algorithms-by-c0d3m-8ebq/
 
-Heap Patterns:  https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category
+2️⃣ Sliding Window, Two Pointers & Substrings
+🔹 Sliding Window
 
-Sliding Window Patterns:  https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/
+Use when: subarray/substring optimization
+📌 Resource:
 
+https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/
 
-Additional resources: 
-https://github.com/ashishps1/awesome-leetcode-resources
-https://leetcode.com/discuss/post/665604/important-and-useful-links-from-all-over-ocy8/
+Templates:
+
+Fixed Window
+
+Variable Window
+
+At-Most → Exactly Trick
+
+🔹 Two Pointers
+
+Use when: sorted arrays, merging, partitioning
+📌 Resource:
+
+https://leetcode.com/discuss/study-guide/1688903/
+
+🔹 Substring Patterns
+
+📌 Resource:
+
+https://lnkd.in/gt23kRen
+
+3️⃣ Binary Search Patterns
+🔹 Binary Search
+
+📌 Resource:
+
+https://leetcode.com/discuss/study-guide/786126/
+
+Types:
+
+Sorted array search
+
+First / last occurrence
+
+Binary search on answer
+
+4️⃣ Tree Patterns
+🌳 Trees
+
+📌 Resource:
+
+https://leetcode.com/discuss/study-guide/1337373/
+
+Patterns:
+
+DFS (pre / post)
+
+Path-based recursion
+
+LCA
+
+Serialization
+
+BST invariants
+
+5️⃣ Graph Patterns
+🔹 Graphs
+
+📌 Resource:
+
+https://leetcode.com/discuss/study-guide/655708/
+
+📺 Video:
+
+https://www.youtube.com/watch?v=59fUtYYz7ZU
+
+6️⃣ Dynamic Programming
+🔹 DP Roadmap
+
+📌 Resource:
+
+https://www.reddit.com/r/leetcode/comments/14o10jd/
+
+📺 Video:
+
+https://www.youtube.com/watch?v=9k31KcQmS_U
+
+Core pattern buckets:
+
+1D DP
+
+2D Grid DP
+
+Subsequence DP
+
+Interval DP
+
+Knapsack
+
+7️⃣ Backtracking
+🔹 Backtracking Template
+
+📌 Resource:
+
+https://leetcode.com/problems/permutations/solutions/18239/
+
+8️⃣ Heap Patterns
+🔹 Heaps
+
+📌 Resource:
+
+https://leetcode.com/discuss/general-discussion/1127238/
+
+9️⃣ Extra Resource Collections (Optional)
+
+🔗 https://github.com/ashishps1/awesome-leetcode-resources
+
+🔗 https://leetcode.com/discuss/post/665604/
+
+✅ How to Use This
+
+Study one pattern at a time
+
+Learn the template
+
+Practice until the pattern is instinctive
+
+Mix patterns only after confidence
