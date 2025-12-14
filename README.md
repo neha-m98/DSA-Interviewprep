@@ -28,4 +28,6 @@ Heap Patterns:  https://leetcode.com/discuss/general-discussion/1127238/master-h
 Sliding Window Patterns:  https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/
 
 
-Additional resources: https://github.com/ashishps1/awesome-leetcode-resources
+Additional resources: 
+https://github.com/ashishps1/awesome-leetcode-resources
+https://leetcode.com/discuss/post/665604/important-and-useful-links-from-all-over-ocy8/
